@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="unit_conversions">
+        <item>سانتی متر به اینچ</item>
+        <item>اینچ به سانتی متر</item>
+        <item>مثقال به گرم</item>
+        <item>گرم به مثقال</item>
+    </string-array>
+</resources>
